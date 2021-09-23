@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 Ph.D candidate
+
 Faculty of Information Technology
+
 University of Jyväskylä, Finalnd
+
 Email: wenyaliu0912@foxmail.com; liu.y.wenya@student.jyu.fi
 
 
