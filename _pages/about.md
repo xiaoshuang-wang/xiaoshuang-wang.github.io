@@ -15,12 +15,15 @@ Email: wenyaliu0912@foxmail.com; liu.y.wenya@student.jyu.fi
 
 Education
 ======
-I am a Ph.D. candidate in the Faculty of Information Technology, University of Jyväskylä under the supervision of 
-[Prof. Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=zh-CN), 
+- 2017.08∼present, Ph.D. candidate. Mathematical Information Technology, Faculty of Information Technology, University of Jyväskylä, Finland.\
+  Supervisor: [Prof. Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=zh-CN), 
 [Prof. Timo Hämäläinen](https://www.jyu.fi/it/fi/tiedekunta/henkilosto/henkilosto/hamalainen-timo) and 
-[Prof. Fengyu Cong](https://scholar.google.com/citations?hl=en&user=Jd0dQA8AAAAJ&view_op=list_works). 
-I received the M.E. degree in Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology,
-China in 2017 under the supervision of [Qi Li](http://faculty.dlut.edu.cn/liqi/zh_CN/index.htm).
+[Prof. Fengyu Cong](https://scholar.google.com/citations?hl=en&user=Jd0dQA8AAAAJ&view_op=list_works)
+- 2014.09∼2017.06, M.S. Control Theory and Control Engineering, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.\
+ Supervisor: [Assoc Prof. Qi Li](http://faculty.dlut.edu.cn/liqi/zh_CN/index.htm)
+- 2010.09∼2014.06, B.S. Automation, Information Science and Technology, Dalian Maritime University,
+Dalian, China.
+
 
 
 Research interests
