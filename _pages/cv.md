@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-CV
+Please find my CV [here](https://github.com/Wenya-Liu/wenya-liu.github.io/Files/CV_WenyaLiu.pdf)
 ======
