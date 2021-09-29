@@ -29,12 +29,7 @@ Dalian, China.
 
 Research interests
 ======
-My research interests include multi-modal data mining, multiway analysis of brain imaging data, dynamic
-brain networks, and naturalistic paradigms. I am currently focusing on the altered functional connectivity
-in major depression under resting states and naturalistic task conditions. I would like to apply the coupled
-tensor decomposition model to explore the dysconnectivity of oscillatory brain networks in psychiatric
-disorders. I am also interested in developing advanced methods to reveal the dynamics of task-related
-brain networks and individual differences of brain networks in psychiatric disorders.
+My research interests include multi-modal data mining, multiway analysis of brain imaging data, dynamic brain networks, and naturalistic paradigms. I am currently focusing on the altered functional connectivity in major depression under resting states and naturalistic task conditions. I would like to apply the coupled tensor decomposition model to explore the dysconnectivity of oscillatory brain networks in psychiatric disorders. I am also interested in developing advanced methods to reveal the dynamics of task-related brain networks and individual differences of brain networks in psychiatric disorders.
 
 
 
