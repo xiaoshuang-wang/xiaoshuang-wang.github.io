@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D candidate\
+Ph.D \
 D521.3, Building Agora\
 Faculty of Information Technology\
 University of Jyväskylä, Finalnd\
