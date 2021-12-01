@@ -25,7 +25,7 @@ Journal
 - **Wenya Liu** and Qi Li. An efficient elastic net with regression coefficients method for variable selection of spectrum data. *PloS one*, 2017, 12(2), e0171122.
   [[Download]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171122)
 - Xiulin Wang, **Wenya Liu**, Xiaoyu Wang, Zhen Mu, Jing Xu, Yi Chang, Qing Zhang, Jianlin Wu and Fengyu Cong. Shared and Unshared Feature Extraction in Major
-  Depression during Music Listening using Constrained Tensor Factorization. *Frontiers Human Neuroscience*. (Accepted)
+  Depression during Music Listening using Constrained Tensor Factorization. *Frontiers in Human Neuroscience*. (Accepted)
   
 Conference
 ------
