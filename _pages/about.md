@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D \
-D521.3, Building Agora\
-Faculty of Information Technology\
-University of Jyväskylä, Finalnd\
-Email: wenyaliu0912@foxmail.com; liu.y.wenya@student.jyu.fi
+Postdoctoral researcher \
+F216, Health Technology House\
+Department of Neuroscience and Biomedical Engineering\
+Aalto University, Espoo, Finland\
+Email: wenyaliu0912@foxmail.com
 
 
 Education
