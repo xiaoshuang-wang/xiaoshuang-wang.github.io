@@ -11,7 +11,7 @@ Postdoctoral researcher \
 F216, Health Technology House\
 Department of Neuroscience and Biomedical Engineering\
 Aalto University, Espoo, Finland\
-Email: wenyaliu0912@foxmail.com
+Email: wenya.liu@aalto.fi; wenyaliu0912@foxmail.com
 
 
 Education
