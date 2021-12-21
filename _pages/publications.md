@@ -36,5 +36,5 @@ Conference
   *29th European Signal Processing Conference (EUSIPCO)*. IEEE, 2021.
   [[Download]](https://ieeexplore.ieee.org/abstract/document/9615964)
 - Xiulin Wang, **Wenya Liu**, Fengyu Cong and Tapani Ristaniemi. Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data.
-  *28th European Signal Processing Conference (EUSIPCO)*. IEEE, 2021.
+  *28th European Signal Processing Conference (EUSIPCO)*. IEEE, 2020.
   [[Download]](https://ieeexplore.ieee.org/abstract/document/9287756)
