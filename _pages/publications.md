@@ -33,7 +33,8 @@ Conference
    *International Conference on Neural Information Processing*. Springer, Cham, 2020.
    [[Download]](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_42)
 - **Wenya Liu**, Xiulin Wang, Fengyu Cong and Timo Hämäläinen. Alpha Band Dysconnectivity Networks in Major Depression during Resting State. 
-  *29th European Signal Processing Conference (EUSIPCO 2021)*, Dublin, Ireland, Accepted, 2021. (Accepted)
+  *29th European Signal Processing Conference (EUSIPCO)*. IEEE, 2021.
+  [[Download]](https://ieeexplore.ieee.org/abstract/document/9615964)
 - Xiulin Wang, **Wenya Liu**, Fengyu Cong and Tapani Ristaniemi. Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data.
   *28th European Signal Processing Conference (EUSIPCO)*. IEEE, 2021.
   [[Download]](https://ieeexplore.ieee.org/abstract/document/9287756)
