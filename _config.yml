@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage|Wenya Liu"
+title                    : "Homepage|Xiaoshuang Wang"
 title_separator          : "-"
-name                     : &name "Wenya Liu"
+name                     : &name "Xiaoshuang Wang"
 description              : &description "personal description"
 url                      : https://xiaoshuang-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenya Liu|刘文雅"
+  name             : "Xiaoshuang Wang|汪小双"
   avatar           : "wenya_photo.JPG"
-  bio              : "Postdoctoral researcher"
+  bio              : "Doctoral researcher"
   location         : 
-  employer         : "Aalto University"
+  employer         : "University of Jyväskylä, Finland"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CxtoJKkAAAAJ&hl=zh-CN&oi=ao"
-  email            : “wenyaliu0912@foxmail.com”
-  researchgate     : "https://www.researchgate.net/profile/Wenya-Liu-3"
+  googlescholar    : "https://scholar.google.com/citations?user=XZPT_lUAAAAJ&hl=en"
+  email            : “xs.wang@foxmail.com”
+  researchgate     : "https://www.researchgate.net/profile/Xiaoshuang-Wang-4"
   uri              :
   bitbucket        :
   codepen          :
