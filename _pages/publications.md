@@ -7,34 +7,14 @@ author_profile: true
 
 Journal
 ------
-- **Wenya Liu**, Chi Zhang, Xiaoyu Wang, Jing Xu, Yi Chang, Tapani Ristaniemi and Fengyu Cong. Functional connectivity of 
- major depression disorder using ongoing EEG during music perception. *Clinical Neurophysiology*, 2020, 131(10): 2413-2422.
-  [[Download]](https://www.sciencedirect.com/science/article/pii/S1388245720304168)
-- **Wenya Liu**, Xiulin Wang, Jing Xu, Yi Chang, Timo Hamäläinen, and Fengyu Cong, “Identifying oscillatory hyperconnectivity and hypoconnectivity 
-  networks in major depression using coupled tensor decomposition,” *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, vol. 29, pp. 1895–1904, 2021.
-  [[Download]](https://ieeexplore.ieee.org/document/9531642)
-- Xiulin Wang, **Wenya Liu**, Tapani Ristaniemi and Fengyu Cong. Group Analysis of Ongoing EEG Data Based on Fast Double-Coupled
-  Nonnegative Tensor Decomposition. *Journal of Neuroscience Methods*, 2020, 330, pp.108502.
-  [[Download]](https://www.sciencedirect.com/science/article/pii/S0165027019303590)
-- Xiulin Wang, **Wenya Liu**, Xiaoyu Wang, Zhen Mu, Jing Xu, Yi Chang, Qing Zhang, Jianlin Wu and Fengyu Cong. Shared and Unshared Feature Extraction in Major
-  Depression during Music Listening using Constrained Tensor Factorization. *Frontiers in Human Neuroscience*. (Accepted)
-- Xiaoshuang Wang, Xiulin Wang, **Wenya Liu**, Zheng Chang, Tommi Kärkkäinen and Fengyu Cong. One dimensional convolutional neural 
-  networks for seizure onset detection using long-term scalp and intracranial EEG. *Neurocomputing*, 2021, 459, 212-222.
-  [[Download]](https://www.sciencedirect.com/science/article/pii/S0925231221009723)
-- Chi Zhang, Fengyu Cong, Tuomo Kujala, **Wenya Liu**, Jia Liu, Tiina Parviainen and Tapani Ristaniemi. Network entropy for the sequence 
-  analysis of functional connectivity graphs of the brain. *Entropy*, 2018, 20(5): 311.
-  [[Download]](https://www.mdpi.com/1099-4300/20/5/311)
-- **Wenya Liu** and Qi Li. An efficient elastic net with regression coefficients method for variable selection of spectrum data. *PloS one*, 2017, 12(2), e0171122.
-  [[Download]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171122)
+- **Wang, X.**, Zhang, G., Wang, Y., Yang, L., Liang, Z., & Cong, F. (2022). One-Dimensional Convolutional Neural Networks Combined with Channel Selection Strategy for Seizure Prediction Using Long-Term Intracranial EEG. *International journal of neural systems*, 32(02), 2150048. [[Download]](https://www.worldscientific.com/doi/abs/10.1142/S0129065721500489)
+- **Wang, X.**, Wang, X., Liu, W., Chang, Z., Kärkkäinen, T., & Cong, F. (2021). One dimensional convolutional neural networks for seizure onset detection using long-term scalp and intracranial EEG. *Neurocomputing*, 459, 212-222. [[Download]](https://www.sciencedirect.com/science/article/pii/S0925231221009723?via%3Dihub)
+- Gu, B., Wang, H., Beltrán, D., Liu, B., Liang, T., **Wang, X.**, & de Vega, M. (2021). Embodied processing of disgust in Mandarin words: An ERP study. *Journal of Neurolinguistics*, 58, 100981. [[Download]](https://www.sciencedirect.com/science/article/pii/S091160442030141X?via%3Dihub)
+- Liu, B., Wang, H., Beltrán, D., Gu, B., Liang, T., **Wang, X.**, & de Vega, M. (2020). The generalizability of inhibition-related processes in the comprehension of linguistic negation. ERP evidence from the Mandarin language. *Language, Cognition and Neuroscience*, 35(7), 885-895. [[Download]](https://www.tandfonline.com/doi/full/10.1080/23273798.2019.1662460)
+- Xia, X., Zhang, J., Wang, X., & **Wang, X.** (2019). The approach behavior to angry words in athletes—A pilot study. *Frontiers in behavioral neuroscience*, 13, 117.
+  [[Download]](https://www.frontiersin.org/articles/10.3389/fnbeh.2019.00117/full)
+- WWang, H., Li, J., **Wang, X.**, Jiang, M., Cong, F., & de Vega, M. (2019). Embodiment effect on the comprehension of Mandarin manual action language: An ERP study. *Journal of Psycholinguistic Research*, 48(3), 713-728. [[Download]](https://link.springer.com/article/10.1007/s10936-018-09627-6)
   
 Conference
 ------
- - **Wenya Liu**, Xiulin Wang, Tapani Ristaniemi and Fengyu Cong. "Identifying Task-Based Dynamic Functional Connectivity Using Tensor Decomposition." 
-   *International Conference on Neural Information Processing*. Springer, Cham, 2020.
-   [[Download]](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_42)
-- **Wenya Liu**, Xiulin Wang, Fengyu Cong and Timo Hämäläinen. Alpha Band Dysconnectivity Networks in Major Depression during Resting State. 
-  *29th European Signal Processing Conference (EUSIPCO)*. IEEE, 2021.
-  [[Download]](https://ieeexplore.ieee.org/abstract/document/9615964)
-- Xiulin Wang, **Wenya Liu**, Fengyu Cong and Tapani Ristaniemi. Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data.
-  *28th European Signal Processing Conference (EUSIPCO)*. IEEE, 2020.
-  [[Download]](https://ieeexplore.ieee.org/abstract/document/9287756)
+ - **Wang, X.,** Ristaniemi, T., & Cong, F. (2021, January). One and Two Dimensional Convolutional Neural Networks for Seizure Detection Using EEG Signals. In *2020 28th European Signal Processing Conference (EUSIPCO)* (pp. 1387-1391) IEEE. [[Download]](https://ieeexplore.ieee.org/document/9287640)
