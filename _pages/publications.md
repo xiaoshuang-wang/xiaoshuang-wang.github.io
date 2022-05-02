@@ -13,7 +13,7 @@ Journal
 - Liu, B., Wang, H., Beltrán, D., Gu, B., Liang, T., **Wang, X.**, & de Vega, M. (2020). The generalizability of inhibition-related processes in the comprehension of linguistic negation. ERP evidence from the Mandarin language. *Language, Cognition and Neuroscience*, 35(7), 885-895. [[Download]](https://www.tandfonline.com/doi/full/10.1080/23273798.2019.1662460)
 - Xia, X., Zhang, J., Wang, X., & **Wang, X.** (2019). The approach behavior to angry words in athletes—A pilot study. *Frontiers in behavioral neuroscience*, 13, 117.
   [[Download]](https://www.frontiersin.org/articles/10.3389/fnbeh.2019.00117/full)
-- WWang, H., Li, J., **Wang, X.**, Jiang, M., Cong, F., & de Vega, M. (2019). Embodiment effect on the comprehension of Mandarin manual action language: An ERP study. *Journal of Psycholinguistic Research*, 48(3), 713-728. [[Download]](https://link.springer.com/article/10.1007/s10936-018-09627-6)
+- Wang, H., Li, J., **Wang, X.**, Jiang, M., Cong, F., & de Vega, M. (2019). Embodiment effect on the comprehension of Mandarin manual action language: An ERP study. *Journal of Psycholinguistic Research*, 48(3), 713-728. [[Download]](https://link.springer.com/article/10.1007/s10936-018-09627-6)
   
 Conference
 ------
