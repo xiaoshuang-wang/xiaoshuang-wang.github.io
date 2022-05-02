@@ -26,11 +26,11 @@ Education
 Research interests
 ======
 - Current research\
-  Epileptic seizure detection and prediction using scalp electroencephalogram (sEEG) and intracranial electroencephalogram (iEEG) based on deep learning and machine learning methods. Details:
-  1. Seizure detection and prediction
-  2. Deep learning (convolutional neural networks, etc.)
-  3. Marchine learning (SVM, KNN, etc.) and data mining (feature extraction, etc.)
-  4. EEG data analysis and signal processing (ICA, PCA, etc.)
+Epileptic seizure detection and prediction using scalp electroencephalogram (sEEG) and intracranial electroencephalogram (iEEG) based on deep learning and machine learning methods. Details:
+1. Seizure detection and prediction
+2. Deep learning (convolutional neural networks, etc.)
+3. Marchine learning (SVM, KNN, etc.) and data mining (feature extraction, etc.)
+4. EEG data analysis and signal processing (ICA, PCA, etc.)
 
 - Early research\
-  Event-related potentials (ERPs), including time domain analysis, time-frequency domain analysis, source localization and statistical analysis.
+Event-related potentials (ERPs), including time domain analysis, time-frequency domain analysis, source localization and statistical analysis.
