@@ -18,3 +18,8 @@ Journal
 Conference
 ------
  - **Wang, X.,** Ristaniemi, T., & Cong, F. (2021, January). One and Two Dimensional Convolutional Neural Networks for Seizure Detection Using EEG Signals. In *2020 28th European Signal Processing Conference (EUSIPCO)* (pp. 1387-1391) IEEE. [[Download]](https://ieeexplore.ieee.org/document/9287640)
+
+Papers under review
+------
+- **Wang, X.**, Zhang, C., Kärkkäinen T., Chang Z., & Cong, F. (2022). Channel Increment Strategy-Based 1D Convolutional Neural Networks for Seizure Prediction Using Intracranial EEG, submitted to *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
+- **Wang, X.**, Kärkkäinen T., & Cong, F. (2022). Seizure Prediction Using EEG Channel Selection Method, submitted to *32nd IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2022)*.
