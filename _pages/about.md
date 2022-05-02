@@ -34,10 +34,5 @@ Research interests
 
 - Early research:
 - Event-related potentials (ERPs), including time domain analysis, time-frequency domain analysis, source localization and statistical analysis.
-
-Publication
-======
-
-
-
-
+- 
+- 
