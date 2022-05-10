@@ -10,7 +10,7 @@ redirect_from:
 Doctoral researcher \
 Faculty of Information Technology\
 University of Jyväskylä, Finland\
-Email: xs.wang@foxmail.com
+Email: xiaoshuang.s.wang@student.jyu.fi; xs.wang@foxmail.com
 
 
 Education
