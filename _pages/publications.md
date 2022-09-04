@@ -24,4 +24,3 @@ Papers under review
 ------
 - **Wang, X.**, Zhang, C., Kärkkäinen T., Chang Z., & Cong, F. (2022). Channel Increment Strategy-Based 1D Convolutional Neural Networks for Seizure Prediction Using Intracranial EEG, submitted to *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
 
-
