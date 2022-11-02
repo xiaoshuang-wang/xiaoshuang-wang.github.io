@@ -13,6 +13,7 @@ Journal
 - **Wenya Liu**, Xiulin Wang, Jing Xu, Yi Chang, Timo Hamäläinen, and Fengyu Cong, “Identifying oscillatory hyperconnectivity and hypoconnectivity 
   networks in major depression using coupled tensor decomposition,” *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, vol. 29, pp. 1895–1904, 2021.
   [[Download]](https://ieeexplore.ieee.org/document/9531642)
+- **Wenya Liu**, Xiulin Wang, Timo Hamäläinen, and Fengyu Cong, "Exploring oscillatory dysconnectivity networks in major depression during resting state using coupled   tensor decomposition," *IEEE Transactions on Biomedical Engineering*,  vol. 69 (8), pp. 2691-2700, 2022. [[Download]]    (https://ieeexplore.ieee.org/abstract/document/9716736)
 - Xiulin Wang, **Wenya Liu**, Tapani Ristaniemi and Fengyu Cong. Group Analysis of Ongoing EEG Data Based on Fast Double-Coupled
   Nonnegative Tensor Decomposition. *Journal of Neuroscience Methods*, 2020, 330, pp.108502.
   [[Download]](https://www.sciencedirect.com/science/article/pii/S0165027019303590)
