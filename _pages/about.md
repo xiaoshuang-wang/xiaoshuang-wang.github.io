@@ -14,9 +14,11 @@ Aalto University, Espoo, Finland\
 Email: wenya.liu@aalto.fi; wenyaliu0912@foxmail.com
 
 
-Education
+Position and Education
 ======
-- 2017.08∼present, Ph.D. candidate. Mathematical Information Technology, Faculty of Information Technology, University of Jyväskylä, Finland.\
+- 2021.12∼present, Postdoctoral researcher, Department of Neuroscience and Biomedical Engineering, Aalto University.\
+  PI: [Prof. Matias Palva and Prof. Satu Palva](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=zh-CN](http://criticaloscillations.org/index.html)
+- 2017.08∼2021.11, Ph.D. candidate. Mathematical Information Technology, Faculty of Information Technology, University of Jyväskylä, Finland.\
   Supervisor: [Prof. Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=zh-CN), 
 [Prof. Timo Hämäläinen](https://www.jyu.fi/it/fi/tiedekunta/henkilosto/henkilosto/hamalainen-timo) and 
 [Prof. Fengyu Cong](https://scholar.google.com/citations?hl=en&user=Jd0dQA8AAAAJ&view_op=list_works)
