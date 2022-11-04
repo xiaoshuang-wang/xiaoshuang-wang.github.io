@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: [/cv/](/files/CV_WenyaLiu.pdf)
+permalink: /[cv](/files/CV_WenyaLiu.pdf)/
 author_profile: true
 redirect_from:
   - /resume
