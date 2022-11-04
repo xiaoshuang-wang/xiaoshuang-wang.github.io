@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please find my CV [here](/files/CV_WenyaLiu.pdf)
+# Please find my CV [here](/files/CV_WenyaLiu.pdf)
+(/files/CV_WenyaLiu.pdf)
 ======
