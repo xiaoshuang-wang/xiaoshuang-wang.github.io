@@ -21,7 +21,7 @@ Work Experience
 
 Education
 ======
-- 2019.03 ~ 2022.12: Ph.D, Software and Communications Engineering, Faculty of Information Technology, University of Jyväskylä, Finland.\
+- 2019.03 ~ 2022.12: Ph.D., Software and Communications Engineering, Faculty of Information Technology, University of Jyväskylä, Finland.\
   Supervisor: [Prof. Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=zh-CN), 
 [Prof. Tommi Kärkkäinen](https://scholar.google.com/citations?hl=en&user=x65tCsUAAAAJ&view_op=list_works&sortby=pubdate) and 
 [Prof. Fengyu Cong](https://scholar.google.com/citations?hl=en&user=Jd0dQA8AAAAJ&view_op=list_works)
