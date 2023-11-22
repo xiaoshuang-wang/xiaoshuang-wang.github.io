@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Doctoral researcher \
-Faculty of Information Technology\
-University of Jyväskylä, Finland\
+Postdoc \
+School of Biomedical Engineering\
+Faculty of Medicine\
+Dalian University of Technology, China\
 Email: xswang@dlut.edu.cn; xs.wang@foxmail.com
 
 Work Experience
