@@ -7,7 +7,7 @@ author_profile: true
 
 Journal
 ------
-- **Wang, X.**, Zhang, C., Kärkkäinen T., Chang Z., & Cong, F. (2022). "Channel Increment Strategy-Based 1D Convolutional Neural Networks for Seizure Prediction Using Intracranial EEG". Accepted in *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
+- **Wang, X.**, Zhang, C., Kärkkäinen, T., Chang, Z., & Cong, F. (2022). "Channel Increment Strategy-Based 1D Convolutional Neural Networks for Seizure Prediction Using Intracranial EEG". *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 31, 316-325. [[Download]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9950283)
 - **Wang, X.**, Zhang, G., Wang, Y., Yang, L., Liang, Z., & Cong, F. (2022). "One-Dimensional Convolutional Neural Networks Combined with Channel Selection Strategy for Seizure Prediction Using Long-Term Intracranial EEG". *International journal of neural systems*, 32(02), 2150048. [[Download]](https://www.worldscientific.com/doi/abs/10.1142/S0129065721500489)
 - **Wang, X.**, Wang, X., Liu, W., Chang, Z., Kärkkäinen, T., & Cong, F. (2021). "One dimensional convolutional neural networks for seizure onset detection using long-term scalp and intracranial EEG". *Neurocomputing*, 459, 212-222. [[Download]](https://www.sciencedirect.com/science/article/pii/S0925231221009723?via%3Dihub)
 - Gu, B., Wang, H., Beltrán, D., Liu, B., Liang, T., **Wang, X.**, & de Vega, M. (2021). "Embodied processing of disgust in Mandarin words: An ERP study". *Journal of Neurolinguistics*, 58, 100981. [[Download]](https://www.sciencedirect.com/science/article/pii/S091160442030141X?via%3Dihub)
