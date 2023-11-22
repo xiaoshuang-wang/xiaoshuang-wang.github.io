@@ -10,11 +10,12 @@ redirect_from:
 Doctoral researcher \
 Faculty of Information Technology\
 University of Jyväskylä, Finland\
-Email: xiaoshuang.s.wang@student.jyu.fi; xs.wang@foxmail.com
+Email: xswang@dlut.edu.cn; xs.wang@foxmail.com
 
 Work Experience
 ======
 - 2023.03 ~ Present: Postdoc, School of Biomedical Engineering, Faculty of Medicine, Dalian University of Technology, Dalian, China.
+
 
 Education
 ======
