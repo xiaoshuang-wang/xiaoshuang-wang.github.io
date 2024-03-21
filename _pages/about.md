@@ -15,7 +15,7 @@ Email: wenya.liu@aalto.fi; wenya.liu@helsinki.fi; wenyaliu0912@foxmail.com
 
 Position and Education
 ======
-- 2021.12∼present, Postdoctoral researcher, Department of Neuroscience and Biomedical Engineering, Aalto University.\
+- 2021.12∼present, Postdoctoral researcher, Department of Neuroscience and Biomedical Engineering, Aalto University & Neuroscience Center, University of Helsinki, Helsinki, Finland\
   PI: [Prof. Matias Palva and Prof. Satu Palva](http://criticaloscillations.org/index.html)
 - 2017.08∼2021.11, Ph.D. candidate. Mathematical Information Technology, Faculty of Information Technology, University of Jyväskylä, Finland.\
   Supervisor: [Prof. Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=zh-CN), 
