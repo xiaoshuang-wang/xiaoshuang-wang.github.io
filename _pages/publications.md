@@ -23,4 +23,4 @@ Conference
 
 Under review
 ------
- - **Wang, X.,** Gao, Z., Zhang, M., Wang, Y., Yang, L., Lin, J., Kärkkäinen, T., & Cong, F (2024). "Combination of Channel Reordering Strategy and Dual CNN-LSTM for Epileptic Seizure Prediction Using Three iEEG Datasets", Submitted to *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. [[Codes]](/files/CV-XiaoshuangWang.pdf)
+ - **Wang, X.,** Gao, Z., Zhang, M., Wang, Y., Yang, L., Lin, J., Kärkkäinen, T., & Cong, F (2024). "Combination of Channel Reordering Strategy and Dual CNN-LSTM for Epileptic Seizure Prediction Using Three iEEG Datasets", Submitted to *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. [[Codes]](/files/Codes of the three schemes for seizure prediction.zip)
