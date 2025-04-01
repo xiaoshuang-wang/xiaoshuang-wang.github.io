@@ -1,2 +1,2 @@
- 1. MATLAB 2024b and KERAS 2.10.0 are used for FLE and TLE seizure detection in this work. The MATLAB code primarily comprises three functional modules: (1) data preprocessing (including filtering and normalization), (2) sample generation, and (3) result visualization. The Python code exclusively handles model training and testing procedures.
+ 1. MATLAB 2024b and KERAS 2.10.0 are used for FLE and TLE seizure detection in this work. The MATLAB code primarily comprises three functional modules: 1) data preprocessing, 2) sample generation, and 3) result visualization. The Python code exclusively handles model training and testing procedures.
  2. Only analysis code is provided in this folder; clinical FLE/TLE data are not included due to privacy/ethical restrictions
